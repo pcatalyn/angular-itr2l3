@@ -8,23 +8,27 @@ export const products = [
   {
     name: 'IMC0002',
     duration: 2,
-    description: 'Architectural Principles and Best Practices for Adopting Oracle Cloud',
+    shortdescription: 'Architectural Principles and Best Practices for Adopting Oracle Cloud',
     fulldescription:"Principles and Best Practices for Cloud Adoption, General considerations, Oracle Cloud Overview & Strategy, deciding on the cloud approach, describing the simplified workflow for getting on board the Cloud,overview of roles in the journey to the Cloud. This training will equip solution architects with the skills required to embark on a journey of assessing their current on-premises environment, defining the IT and non-IT goals for migrating to the cloud, understanding the operational targets, deciding the cloud topology, planning the migration tasks, and conducting the migration process. This involves answering a series of specific questions that will progressively help students narrow down the range of cloud deployment options and develop a migration strategy that's built on an optimal blend of Oracle Cloud service offerings."
   },
   {
     name: 'IMC0005',
     duration: 1.5,
-    description: 'Oracle Security and Compliance for Oracle Database'
+    shortdescription: 'Oracle Security and Compliance for Oracle Database',
+    fulldescription:'Security and Compliance with Oracle Database 12c. The Database security workshop showcases the following aspects: Transparent Data Encryption- Protection against database bypass threats....'
   },
   {
     name: 'IMC0006',
     duration: 3,
-    description: 'Revolutionizing Development with Oracle Cloud PaaS Services / out of date (could)'
+    shortdescription: 'Revolutionizing Development with Oracle Cloud PaaS Services / out of date (could)',
+    fulldescription:"Simplify Applications Development Lifecycle, Team Collaboration and Management and Deployments with the Oracle Cloud Services. Development teams are looking for agile and scalable ways to deliver applications, while business is looking for quicker turn around time on application development; hence the need for Continuous Delivery is introduced. This workshop will give a hands on depth to Simplify Applications Development Lifecycle, Team Collaboration and Management and Deployments with the Oracle Cloud Services. Using Oracle Developer Cloud Service, teams can automate testing and Continuous Integration to allow software to be developed to a high standard, and using Oracle Java Cloud Service and Database Cloud Service, easily packaged and deployed to test environments, resulting in the ability to rapidly, reliably and repeatedly push out enhancements and bug fixes to customers at low risk and with minimal manual overhead."
+
   },
   {
     name: 'IMC0009.A',
     duration: 1,
-    description: 'Oracle Digital Assistant and Chatbots'
+    shortdescription: 'Oracle Digital Assistant and Chatbots',
+    fulldescription:'Oracle Digital Assistant is a platform for developing apps for natural conversational interfaces such as Facebook Messenger and Amazon Alexa. The platform makes it easy to build sophisticated digital assistants or simple Chatbots that can connect and extend multiple backend systems, like Oracle ERP, HCM and CX, or any third-party apps - simultaneously, in a secure, scalable manner.'
   },
 {
     name: 'IMC0009.B',
