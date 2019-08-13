@@ -24,7 +24,8 @@ checkoutForm;
 
     this.checkoutForm = this.formBuilder.group({
       name: '',
-      address: ''
+      address: '',
+      location: ''
     });
     
   }
